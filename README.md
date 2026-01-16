@@ -59,7 +59,7 @@
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/harshitsagar/jiji_ai.git
+   git clone https://github.com/harshitsagar/fitness_app.git
 
 2. **Install dependencies**
    ```bash
