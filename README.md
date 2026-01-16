@@ -1,7 +1,8 @@
 🏃‍♂️ Fitness Health App (Flutter)
 A small fitness application built using Flutter following the provided Figma design, focusing on clean UI, dark/light theme support, and GetX architecture.
 
-📱 Features Implemented
+📱 Features Implemented :
+
 ✅ Splash Screen
 - Animated splash screen with 3 stages as per Figma:
     1. Logo icon
