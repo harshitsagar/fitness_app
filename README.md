@@ -54,18 +54,6 @@ A small fitness application built using Flutter following the provided Figma des
 - flutter_screenutil
 - Nunito Font (locally added to match Figma)
 
-📁 Project Structure (Simplified) :
-lib/
-├── app/
-│   ├── modules/
-│   │   ├── splash/
-│   │   └── home/
-│   ├── data/
-│   │   └── services/
-│   ├── theme/
-│   └── routes/
-└── main.dart
-
 ## How to Run
 
 1. **Clone repository**
